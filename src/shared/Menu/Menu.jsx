@@ -4,10 +4,9 @@ export function Menu() {
 
         <>
             <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top">
-                <div className="container-fluid">
+                <div className="container-fluid ">
                     <a className="navbar-brand" href="#">
-                        <i className="bi bi-scissors mx-1"></i>
-                        The Barber
+                        Magic Barber
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
@@ -18,13 +17,13 @@ export function Menu() {
                                 <a className="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Features</a>
+                                <a className="nav-link active" href="#">Servicios</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Pricing</a>
+                                <a className="nav-link active" href="#">Empleados</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link disabled">Disabled</a>
+                                <a className="nav-link active">Agenda Tu Cita</a>
                             </li>
                         </ul>
                     </div>

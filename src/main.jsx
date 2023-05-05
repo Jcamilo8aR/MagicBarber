@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { Menu } from './shared/Menu/Menu'
+import {Menu} from './shared/Menu/Menu'
 import { Footer } from './shared/Footer/Footer'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
