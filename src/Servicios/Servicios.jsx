@@ -198,9 +198,9 @@ export function Servicios() {
                         {/* <Link className="btn btn-lg btn-primary" to={} >
                         Agenda tú cita
                       </Link> */}
-                        <a className="btn btn-lg btn-dark fw-bold fst-italic" >
+                        {/* <a className="btn btn-lg btn-dark fw-bold fst-italic" >
                           Agenda tú cita
-                        </a>
+                        </a> */}
                       </div>
                     </div>
                   </div>
