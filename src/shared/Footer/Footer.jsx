@@ -84,7 +84,7 @@ export function Footer() {
                                 </div>
                                 <div className="mb-1">
                                 <a className="bi bi-github text-decoration-none text-secondary"></a>
-                                    <a className="text-decoration-none text-secondary mx-2" href="https://github.com">GitHub</a>
+                                    <a className="text-decoration-none text-secondary mx-2" href="https://github.com/barberia00">GitHub</a>
                                 </div>
                             </div>
 
@@ -107,7 +107,7 @@ export function Footer() {
                                                 <a className="text-decoration-none text-secondary mx-2">Juan Camilo Ochoa</a>
                                         </div>
                                         <div className="mb-1">
-                                            <a href="https://github.com" className="bi bi-github text-secondary"></a>
+                                            <a href="https://github.com/fenix2902" className="bi bi-github text-secondary"></a>
                                                 <a className="text-decoration-none text-secondary mx-2">Alexander Calle</a>
                                         </div>
                                         <div className="mb-1">
@@ -126,11 +126,11 @@ export function Footer() {
                                                 <a className="text-decoration-none text-secondary mx-2">Juan Jose Gallego</a>
                                         </div>
                                         <div className="mb-1">
-                                            <a href="https://github.com" className="bi bi-github text-secondary"></a>
+                                            <a href="https://github.com/SantiagoSuarez69" className="bi bi-github text-secondary"></a>
                                                 <a className="text-decoration-none text-secondary mx-2">Santiago Suarez</a>
                                         </div>
                                         <div className="mb-1">
-                                            <a href="https://github.com" className="bi bi-github text-secondary"></a>
+                                            <a href="https://github.com/t" className="bi bi-github text-secondary"></a>
                                                 <a className="text-decoration-none text-secondary mx-2">Arrieta</a>
                                         </div>
                                     </div>
